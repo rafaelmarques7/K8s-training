@@ -1,4 +1,8 @@
-# Steps
+# Kubernetes training
+
+This is source code and some of the recorded comamnds during the Kubernetes training.
+
+## Steps
 
 1. Create index.js with a webservice
 2. Create Dockerfile that (builds and) runs the app
@@ -69,7 +73,3 @@ kubectl port-forward pea 8090:9000
 
 * [https://kubernetes.io/docs/concepts/workloads/controllers/deployment/](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 * [https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-probes/](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-probes/)
-* []()
-* []()
-* []()
-* []()
